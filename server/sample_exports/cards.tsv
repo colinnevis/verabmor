@@ -1,0 +1,3 @@
+card_id	user_id	source_type	source_id	source_loc	l1_text	l2_text	gloss	pos	cefr	image_uri	audio_uri	example_l2	example_l1	tags	created_at
+seed-card-01	seed-user	transcript	seed-source-transcript	0	thank you	gracias	thank you	noun	A2	https://picsum.photos/seed/server1/400/400		Gracias por todo.	Thanks for everything.	transcript,seed	2024-01-01T00:00:00Z
+seed-card-02	seed-user	kindle	seed-source-kindle	12	a table for two	una mesa para dos	a table for two	phrase	B1	https://picsum.photos/seed/server2/400/400		Una mesa para dos, por favor.	A table for two, please.	kindle,seed	2024-01-01T00:00:00Z

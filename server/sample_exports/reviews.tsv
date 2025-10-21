@@ -1,0 +1,3 @@
+review_id	card_id	user_id	due_at	shown_at	grade	ease_ivl	interval_s	next_due_at	device
+seed-review-01	seed-card-01	seed-user	2024-01-01T08:00:00Z	2024-01-01T09:00:00Z	5	2.50	86400	2024-01-02T09:00:00Z	ios
+seed-review-02	seed-card-02	seed-user	2024-01-02T08:00:00Z	2024-01-02T09:00:00Z	4	2.40	172800	2024-01-04T09:00:00Z	ios
