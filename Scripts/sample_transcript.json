@@ -1,0 +1,7 @@
+{
+  "segments": [
+    {"speaker": "Teacher", "text": "Bienvenidos a la clase.", "start": 0.0, "end": 3.0, "isStarred": true},
+    {"speaker": "You", "text": "Estoy listo para aprender.", "start": 3.0, "end": 6.0, "isStarred": false}
+  ],
+  "duration": 6.0
+}

@@ -1,0 +1,4 @@
+source_id	user_id	type	path_or_uri	language	meta_json	first_seen_at	last_ingested_at
+seed-source-transcript	seed-user	transcript	recording://seed	es	{"duration":120}	2024-01-01T07:30:00Z	2024-01-01T07:35:00Z
+seed-source-kindle	seed-user	kindle	kindle://seed	es	{"highlights":12}	2024-01-01T07:40:00Z	2024-01-01T07:45:00Z
+seed-source-subtitle	seed-user	subtitle	subtitle://seed	es	{"lines":40}	2024-01-01T07:50:00Z	2024-01-01T07:55:00Z

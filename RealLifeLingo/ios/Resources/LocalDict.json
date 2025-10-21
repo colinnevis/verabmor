@@ -1,0 +1,9 @@
+[
+  {"term": "hola", "gloss": "hello"},
+  {"term": "gracias", "gloss": "thank you"},
+  {"term": "adiós", "gloss": "goodbye"},
+  {"term": "comer", "gloss": "to eat"},
+  {"term": "aprender", "gloss": "to learn"},
+  {"term": "bonjour", "gloss": "hello"},
+  {"term": "merci", "gloss": "thank you"}
+]
